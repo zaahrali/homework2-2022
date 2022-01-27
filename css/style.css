@@ -91,6 +91,7 @@ div{
     text-align: left;
     border-right: 10px solid;
     border-bottom: 3px solid;
+    margin-right: 50px;
     border-top: none;
     border-left: none;
 }
@@ -98,6 +99,7 @@ div{
 span{
     text-shadow: none;
     text-transform: uppercase;
+    text-decoration: underline;
 }
 
 footer{
@@ -110,5 +112,5 @@ footer p{
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
-
+    padding-left: 0;
 }
